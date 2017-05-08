@@ -1,0 +1,6 @@
+{
+  "name": "DIPLOM",
+  "description": "Онлайн редактор кода в режиме реального времени",
+  "repository": "https://github.com/li4nost94",
+  "keywords": ["node", "webrtc", "sockets", "collab", "editor"]
+}
